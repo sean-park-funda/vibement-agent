@@ -19,6 +19,7 @@ If you want a problem looked at in more depth than a public comment allows, or w
 
 | issue | topic |
 |---|---|
+| [claude-code#97707](https://github.com/anthropics/claude-code/issues/97707) | filesystem server ignores its directory arg: client roots replace it — `--add-dir` fix, measured |
 | [DesktopCommanderMCP#785](https://github.com/wonderwhy-er/DesktopCommanderMCP/issues/785) | `resource` rejected with a trailing slash; the refresh path that avoids it |
 | [DesktopCommanderMCP#698](https://github.com/wonderwhy-er/DesktopCommanderMCP/issues/698) | `/authorize` 500 — two-request reproduction, and a public correction of our own first diagnosis |
 | [DesktopCommanderMCP#789](https://github.com/wonderwhy-er/DesktopCommanderMCP/issues/789) | preview opt-out silently overwritten by a 100% feature flag |
